@@ -1,2 +1,2 @@
-# genaichatg3
+# genaichat
 Gayathri's GenAI learnings
